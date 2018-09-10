@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(bkrndimg.jpg);
+}
+
+.quote-box {
+    max-width: 700px;
+    margin: auto;
+    margin-right: auto;
+}
+
+.quote-text {
+    text-align: center;
+    font-size: 24px;
+    color: lavender;
+    font-family: 'Metamorphous', cursive;
+    text-shadow: 2px 2px 3px black;
+    font-weight: bold;
+}
+
+.quote-author {
+    position: right;
+    margin-top: 40px;
+    color: black;
+    font-family: 'Bilbo', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.newQuote {
+    box-shadow: 3px 3px 3px black;
+    font-family: 'Bilbo', cursive;
+    font-size: 15px;
+    font-weight: bold;
+}
